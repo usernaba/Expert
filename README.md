@@ -1,2 +1,2 @@
-# Expert
+# expert
 Repository for students learning
