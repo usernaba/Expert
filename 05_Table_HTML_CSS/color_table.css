@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+table {
+    font-size: 20px;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: cadetblue;
+}
+.col1 {
+    background-color: yellow;
+}
+
+.col2 {
+    background-color: aliceblue;
+}
+
+.col3 {
+    background-color: azure;
+}
+
+tfoot {
+    background-color: ivory;
+}
